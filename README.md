@@ -6,7 +6,13 @@
 <br>
 # Check code and modify as per your local area requirement
 <br>
+<<<<<<< HEAD
 # Author: Azmat Ali
 <br>
 # Project 7.0
 
+=======
+# version: 1.0.0
+<br>
+# Author: Azmat Ali
+>>>>>>> 6527721 (corrected text in readme file)
